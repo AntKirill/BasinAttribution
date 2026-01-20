@@ -67,14 +67,17 @@ This will partition the solutions and identify attractors.
 ## Citation
 If you use this code for research, please cite:
 ```
-@article{antonov2023attraction,
-  title={New solutions to Cooke triplet problem via analysis of attraction basins},
-  author={Antonov, Kirill and Botari, Tiago and Tukker, Teuss and B{\"a}ck, Thomas and van Stein, Niki and Kononova, Anna V},
-  booktitle={Digital Optical Technologies 2023},
-  volume={12624},
-  pages={131--143},
-  year={2023},
-  organization={SPIE}
+@inproceedings{10.1117/12.2675836,
+  author = {Kirill Antonov and Tiago Botari and Teuss Tukker and Thomas B{\"a}ck and Niki van Stein and Anna V. Kononova},
+  title = {{New solutions to Cooke triplet problem via analysis of attraction basins}},
+  volume = {12624},
+  booktitle = {Digital Optical Technologies 2023},
+  organization = {International Society for Optics and Photonics},
+  publisher = {SPIE},
+  pages = {126240T},
+  year = {2023},
+  doi = {10.1117/12.2675836},
+  URL = {https://doi.org/10.1117/12.2675836}
 }
 ```
 
