@@ -22,7 +22,7 @@ The methodology enables efficient partitioning of high-quality solutions in comp
 ![I_target](imgs/before-after.png)
 
 </div>
-Figure: Example of an optimization landscape and two points in panel (a). The results of the processing by the proposed algorithm are depicted in panel (b).
+Figure: Example of an optimization landscape and two points in panel (a). The results of the processing by the proposed algorithm are depicted in panel (b). The improving path between magenta points has been identified; therefore, they are located in the same attraction basin.
 
 
 ## Features
